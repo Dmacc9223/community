@@ -6,7 +6,6 @@ var JS_FILES = ["Gruntfile.js", "app/assets/js/**", "config/config.js", "app/dat
     "app/routes/**/*.js", "server.js", "test/**/*.js"
 ];
 
-
 module.exports = function(grunt) {
     // Project Configuration
     grunt.initConfig({
